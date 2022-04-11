@@ -1,0 +1,10 @@
+nav
+{
+    border-bottom: solid black 2px;
+
+}
+
+li{
+    display: inline;
+    margin:10%;
+}
